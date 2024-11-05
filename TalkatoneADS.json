@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ads.inmobi.com",
+        "tappx.com",
+        "criteo.com",
+        "pubmatic.com",
+        "smaato.net",
+        "amazon-adsystem.com",
+        "adsappier.com",
+        "appier.net",
+        "appiersig.com",
+        "gum.criteo.com",
+        "cdn2.inner-active.mobi",
+        "sdk-dnt.ad.smaato.net",
+        "sdk-events.inner-active.mobi",
+        "ow.pubmatic.com",
+        "bidder.criteo.com",
+        "googleads.g.doubleclick-cn.net",
+        "wv.inner-active.mobi",
+        "c.amazon-adsystem.com",
+        "googleads.g.doubleclick-cn.net",
+        "cr.adsappier.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "googleads"
+      ]
+    }
+  ]
+}
