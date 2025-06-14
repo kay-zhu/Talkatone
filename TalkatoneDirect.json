@@ -3,16 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "inmobi.com",
         "inner-active.mobi",
-        "mobilefuse.com",
-        "talkatone.com",
         "tenor.com",
         "crashlytics.com",
-        "kochava.com",
-        "cohere.com",
-        "ip-api.com",
-        "agkn.com",
         "spadsync.com"
       ]
     },
