@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
@@ -23,9 +23,7 @@
         "c.amazon-adsystem.com",
         "googleads.g.doubleclick-cn.net",
         "cr.adsappier.com"
-      ]
-    },
-    {
+      ],
       "domain_keyword": [
         "googleads"
       ]
