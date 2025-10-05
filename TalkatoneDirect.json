@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
@@ -7,9 +7,7 @@
         "tenor.com",
         "crashlytics.com",
         "spadsync.com"
-      ]
-    },
-    {
+      ],
       "ip_cidr": [
         "50.117.27.0/24",
         "63.251.124.0/24",
